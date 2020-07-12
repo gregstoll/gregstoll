@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi!  Check out more of my projects at [gregstoll.com](https://gregstoll.com).  More info to come!
 
 <!--
 **gregstoll/gregstoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
