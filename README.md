@@ -1,6 +1,5 @@
-Hi!  Most of my projects are deployed at [gregstoll.com](https://gregstoll.com), as well as a bunch that haven't made the jump to GitHub yet.
-
-[![Greg's github stats](https://github-readme-stats.vercel.app/api?username=gregstoll&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Hi!  Most of my projects are deployed at [gregstoll.com](https://gregstoll.com) - check it out!
+<!-- [![Greg's github stats](https://github-readme-stats.vercel.app/api?username=gregstoll&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **gregstoll/gregstoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
