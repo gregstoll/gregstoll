@@ -1,4 +1,4 @@
-Hi!  Most of my projects are deployed at [gregstoll.com](https://gregstoll.com) - check it out!
+Hi!  Most of my projects are deployed at [gregstoll.com](https://gregstoll.com).
 <!-- [![Greg's github stats](https://github-readme-stats.vercel.app/api?username=gregstoll&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **gregstoll/gregstoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
